@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/garden-header.svg" width="100%" alt="Sasa’s little garden — 从生活里发现问题，把想法做成作品。" />
-</p>
-
-<p align="center">
   <b>Hi, I'm Sasa / Jingwen 🌱</b><br>
   文科背景的创作者，在设计、传播与 AI 之间探索。<br>
   <sub>A creative mind building useful little things with AI.</sub>
