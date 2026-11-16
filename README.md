@@ -4,7 +4,7 @@
 
 社科人 × 创意策划与设计 × 英语与阿语。关注 AI 与传播、出海内容本地化，也把工作和生活里的问题做成工具，把偶然的灵感做成可以玩的作品。
 
-**简体中文** · [English](./README.en.md) · [个人主页](https://jingwen-site.vercel.app) · [邮箱](mailto:15119921676@163.com)
+**简体中文** · [English](./README.en.md) · [邮箱](mailto:15119921676@163.com)
 
 ---
 
@@ -107,6 +107,6 @@
 
 📍 Beijing · ✉️ [15119921676@163.com](mailto:15119921676@163.com)
 
-[个人主页与作品集 ↗](https://jingwen-site.vercel.app) · [飞跃视频工具](https://sasafreya.github.io/feiyue-video-tools/) · [全部公开仓库](https://github.com/SasaFreya?tab=repositories)
+[飞跃视频工具](https://sasafreya.github.io/feiyue-video-tools/) · [全部公开仓库](https://github.com/SasaFreya?tab=repositories)
 
 如果你也在做创意工具、AI 工作流或有趣的互动作品，欢迎交流。项目使用问题和建议，也可以直接在对应仓库的 Issues 留言。

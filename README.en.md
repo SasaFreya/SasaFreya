@@ -4,7 +4,7 @@
 
 My work connects social sciences, creative planning and design, and language learning. I'm interested in AI and communication, content localization, and turning everyday needs into useful tools and small interactive experiences.
 
-[简体中文](./README.md) · **English** · [Portfolio](https://jingwen-site.vercel.app) · [Email](mailto:15119921676@163.com)
+[简体中文](./README.md) · **English** · [Email](mailto:15119921676@163.com)
 
 ## What I build
 
@@ -91,6 +91,6 @@ Start with a real situation, make a useful first version, and improve it through
 
 📍 Beijing · ✉️ [15119921676@163.com](mailto:15119921676@163.com)
 
-[Portfolio ↗](https://jingwen-site.vercel.app) · [Feiyue Video Tools](https://sasafreya.github.io/feiyue-video-tools/) · [All public repositories](https://github.com/SasaFreya?tab=repositories)
+[Feiyue Video Tools](https://sasafreya.github.io/feiyue-video-tools/) · [All public repositories](https://github.com/SasaFreya?tab=repositories)
 
 If you're building creative tools, AI workflows, or playful interactive experiences, feel free to say hi. For project questions and suggestions, please open an issue in the relevant repository.
